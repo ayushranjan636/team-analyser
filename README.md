@@ -37,6 +37,9 @@ ReWear is a sustainable fashion platform that enables users to exchange unused c
 - **State Management**: React hooks with Firebase integration
 - **Image Handling**: Firebase Storage with automatic optimization
 
+### Automated deployment handled by GitHub Actions bot (`v0[bot]`).
+
+
 ## Firebase Configuration
 
 ### Environment Variables
