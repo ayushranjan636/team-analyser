@@ -1,3 +1,20 @@
+Team Leader Name : Drushti surkar
+Team Name : Team 0772
+Email : surkardrushti05@gmail.com
+Phone : 9096434391
+Reviewer : Bhil Nayanaben Bhagvanbahi(nab)
+
+Team Member 1
+Ayush Ranjan
+ayushranjan535@gmail.com
+9025867204
+
+Team Member 2
+Meet Parmar
+pmeet4167@gmail.com
+9340684938
+
+
 # ReWear - Community Clothing Exchange Platform
 
 ReWear is a sustainable fashion platform that enables users to exchange unused clothing through direct swaps or a point-based redemption system. Built with Next.js and Firebase, it promotes sustainable fashion and reduces textile waste.
