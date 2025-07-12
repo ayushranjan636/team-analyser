@@ -65,6 +65,7 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 - Admin users have moderation privileges
 - All write operations require authentication
 - Points transactions use server-side validation
+- 
 
 ## API Endpoints
 
@@ -172,11 +173,11 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 - GDPR-compliant data handling and deletion
 
 ## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Implement changes with proper testing
-4. Submit pull request with detailed description
+-Fork the repository
+-Create a feature branch
+-Implement changes with proper testing
+-Commit your changes with a clear and concise commit message
+-Submit a pull request with a detailed description
 
 ## License
 
