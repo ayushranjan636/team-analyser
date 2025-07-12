@@ -3,9 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "next build",
     "dev": "next dev",
-    "lint": "next lint",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
@@ -23,7 +22,7 @@
     "@radix-ui/react-toast": "^1.1.5",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "firebase": "latest",
+    "firebase": "^11.10.0",
     "lucide-react": "^0.454.0",
     "next": "14.2.16",
     "react": "^18",
